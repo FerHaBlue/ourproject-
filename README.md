@@ -1,7 +1,6 @@
 # ourproject
-Ojeadores Futbol
-
 TÍTULO: OJEADORES FÚTBOL
+
 DESCRIPCIÓN: plataforma para valorar las habilidades de los niños jugando al fútbol.
 Los padres suben videos de los hijos jugando al fútbol.
 Para cada video los validadores puntúan ciertos criterios acordados, asignando un rating a
