@@ -15,20 +15,20 @@ Durante el registro todos los usuarios deben validar su identidad mediante: ID (
 La plataforma permite:
 
 - PADRES:
-o Registro y gestión del perfil
-o Subir los videos de los hijos
-o Recibir actualizaciones en la valoración y en los comentarios
-o Comentar los videos
-o Recibir mensajes privados de los ojeadores interesados
+//Registro y gestión del perfil
+//Subir los videos de los hijos
+//Recibir actualizaciones en la valoración y en los comentarios
+//Comentar los videos
+//Recibir mensajes privados de los ojeadores interesados
 
 - VALIDADORES:
-o Registro y gestión del perfil
-o Visualizar los videos
-o Valorar según los criterios acordados
-o Comentar los videos
-o (¿Podrían ser los propios ojeadores?)
+//Registro y gestión del perfil
+//Visualizar los videos
+//Valorar según los criterios acordados
+//Comentar los videos
+//(¿Podrían ser los propios ojeadores?)
 
 - OJEADORES:
-o Visualizar todos los videos
-o Comentar
-o Enviar mensajes privados a los padres
+//Visualizar todos los videos
+//Comentar
+//Enviar mensajes privados a los padres
